@@ -24,7 +24,7 @@ Corona Virus Tracking App
 # Web
 
 Implement [this](https://www.figma.com/file/GDla3bQomRCqtohrLiNjOI/Isaac's-Day-24-DSC-30-days-of-Code-(UI%2FUX)?node-id=14%3A4).
-
+https://github.com/coded1guy/day-30
 Priority is given to the landing page + sign up page, login page and task page
 
 # Python
